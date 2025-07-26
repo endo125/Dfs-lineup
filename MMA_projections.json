@@ -1,0 +1,12 @@
+[
+  { "name": "Fighter A", "salary": 9200, "projection": 105.3 },
+  { "name": "Fighter B", "salary": 8900, "projection": 98.1 },
+  { "name": "Fighter C", "salary": 8600, "projection": 91.5 },
+  { "name": "Fighter D", "salary": 8300, "projection": 87.0 },
+  { "name": "Fighter E", "salary": 8000, "projection": 84.2 },
+  { "name": "Fighter F", "salary": 7700, "projection": 82.9 },
+  { "name": "Fighter G", "salary": 7400, "projection": 78.8 },
+  { "name": "Fighter H", "salary": 7100, "projection": 72.6 },
+  { "name": "Fighter I", "salary": 6800, "projection": 69.0 },
+  { "name": "Fighter J", "salary": 6500, "projection": 65.3 }
+]
