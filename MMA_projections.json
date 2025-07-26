@@ -1,4 +1,15 @@
 [
+  { "name": "Reinier de Ridder", "salary": 7900, "projection": 110 },
+  { "name": "Robert Whittaker", "salary": 9000, "projection": 105 },
+  { "name": "Petr Yan", "salary": 9000, "projection": 102 },
+  { "name": "Marcus McGhee", "salary": 8800, "projection": 98 },
+  { "name": "Shara Magomedov", "salary": 9600, "projection": 99 },
+  { "name": "Marc‑Andre Barriault", "salary": 6600, "projection": 92 },
+  { "name": "Bogdan Guskov", "salary": 7500, "projection": 95 },
+  { "name":  "Nikita Krylov", "salary": 7000, "projection": 89 },
+  { "name": "Ibo Aslan", "salary": 8900, "projection": 97 },
+  { "name": "Billy Elekana", "salary": 7300, "projection": 85 }
+]
   { "name": "Fighter A", "salary": 9200, "projection": 105.3 },
   { "name": "Fighter B", "salary": 8900, "projection": 98.1 },
   { "name": "Fighter C", "salary": 8600, "projection": 91.5 },
