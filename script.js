@@ -106,5 +106,5 @@ function downloadCSV() {
   const csv = [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
   downloadFile(csv, 'lineups_upload.csv', 'text/csv');
 }
-
+document.getElementById('debug-message').textContent = 'Script loaded and projection fetch started';
 loadProjections();
