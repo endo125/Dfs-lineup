@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MMA DFS Lineup Tool</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <h1>MMA DFS Lineup Builder</h1>
+  
+  <section id="controls">
+    <button onclick="generateLineups()">Generate Lineups</button>
+    <button onclick="clearRules()">Clear Locks/Bans</button>
+    <button onclick="downloadCSV()">Download CSV</button>
+  </section>
+
+  <table id="fighters-table">
+    <thead>
+      <tr>
+        <th>Fighter</th>
+        <th>Salary</th>
+        <th>Projection</th>
+        <th>Lock</th>
+        <th>Ban</th>
+      </tr>
+    </thead>
+    <tbody id="fighters-body">
+      <!-- Fighters will load here -->
+    </tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
